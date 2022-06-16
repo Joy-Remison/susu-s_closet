@@ -1,0 +1,29 @@
+.ul {
+    display: inline;
+    width: auto;
+    height: 50px;
+    font-weight: bolder;
+    text-align: center;
+    margin: auto;
+    list-style: none;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #be7656;
+    padding: 1.5rem;
+    display: block;
+}
+
+.navbar li a:hover {
+    color: burlywood;
+}
